@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # mundane
+.vs code
 statistics-interview-questions.pdf
