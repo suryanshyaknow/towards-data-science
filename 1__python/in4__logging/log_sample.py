@@ -53,11 +53,18 @@ def multiply(x, y):
 
 def divide(x, y):
     """Divide Function"""
-    return x / y
+    try:
+        return x / y
+    # except Exception as e:
+    #     logger.error(e)
+    ### NOTE: We can also inslude a <traceback> of the error occured 
+    # just by replacing logger.error by logger.exception.
 
+    except Exception as e:
+        logger.exception(e)
 
 num_1 = 21
-num_2 = 19
+num_2 = 0
 
 add_result = add(num_1, num_2)
 logger.info('Add: {} + {} = {}'.format(num_1, num_2, add_result))
