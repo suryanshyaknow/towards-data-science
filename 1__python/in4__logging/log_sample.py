@@ -1,5 +1,5 @@
 import logging as lg
-import employee
+# import employee
 
 logger = lg.getLogger(__name__)
 logger.setLevel(lg.INFO)
@@ -11,6 +11,13 @@ logger.addHandler(f_handler)
 ## as well, thus, we have to NOT SET the basicConfig or there's no point of creating a separate handler beacuase 
 ## makes no sense to store logs simultaneously into two files.
 # lg.basicConfig(filename='sample.log', level=lg.INFO, format='%(name)s %(asctime)s %(levelname)s %(message)s')
+
+### Adding a StreamHandler to print logs in console:
+stream_handler = lg.StreamHandler()
+stream_handler.setFormatter(lg.Formatter('%(asctime)s %(name)s %(levelname)s %(message)s'))
+# adding it to the logger
+logger.addHandler(stream_handler)
+
 
 """
 NOTE: Now that I've imported the 'employee' module, 'sample.log' isn't getting created and all the logs are being

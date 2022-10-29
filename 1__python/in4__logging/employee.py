@@ -13,6 +13,13 @@ logger.addHandler(handler)
 formatter = lg.Formatter('%(asctime)s %(name)s %(levelname)s %(message)s')
 handler.setFormatter(formatter)
 
+### Adding a StreamHandler to print logs in console:
+stream_handler = lg.StreamHandler()
+stream_handler.setFormatter(lg.Formatter('%(asctime)s %(name)s %(levelname)s %(message)s'))
+# adding it to the logger
+logger.addHandler(stream_handler)
+
+
 # NOTE: We can also set the level (that we initially set to the logger itself) to the filehandler, making the file 
 # itself to filter all the logs accordingly.
 
