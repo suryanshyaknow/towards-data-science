@@ -1,0 +1,47 @@
+root 2022-10-29 12:52:51,383 INFO suryansh grover1999
+root 2022-10-29 12:52:51,383 INFO suryanshgrover1999@email.com
+root 2022-10-29 12:52:51,383 INFO Created Employee: suryansh grover1999 - suryanshgrover1999@email.com
+root 2022-10-29 12:52:51,383 INFO spidey styles
+root 2022-10-29 12:52:51,383 INFO spideystyles@email.com
+root 2022-10-29 12:52:51,383 INFO Created Employee: spidey styles - spideystyles@email.com
+root 2022-10-29 12:52:51,383 INFO sherlock holmes1854
+root 2022-10-29 12:52:51,383 INFO sherlockholmes1854@email.com
+root 2022-10-29 12:52:51,383 INFO Created Employee: sherlock holmes1854 - sherlockholmes1854@email.com
+root 2022-10-29 12:56:58,946 INFO suryansh grover1999
+root 2022-10-29 12:56:58,946 INFO suryanshgrover1999@email.com
+root 2022-10-29 12:56:58,946 INFO Created Employee: suryansh grover1999 - suryanshgrover1999@email.com
+root 2022-10-29 12:56:58,946 INFO spidey styles
+root 2022-10-29 12:56:58,946 INFO spideystyles@email.com
+root 2022-10-29 12:56:58,946 INFO Created Employee: spidey styles - spideystyles@email.com
+root 2022-10-29 12:56:58,946 INFO sherlock holmes1854
+root 2022-10-29 12:56:58,946 INFO sherlockholmes1854@email.com
+root 2022-10-29 12:56:58,946 INFO Created Employee: sherlock holmes1854 - sherlockholmes1854@email.com
+root 2022-10-29 12:56:58,946 INFO Add: 21 + 19 = 40
+root 2022-10-29 12:56:58,947 INFO Sub: 21 - 19 = 2
+root 2022-10-29 12:56:58,947 INFO Mul: 21 * 19 = 399
+root 2022-10-29 12:56:58,947 INFO Div: 21 / 19 = 1.105263157894737
+
+root 2022-10-29 12:57:40,473 INFO suryansh grover1999
+root 2022-10-29 12:57:40,473 INFO suryanshgrover1999@email.com
+root 2022-10-29 12:57:40,473 INFO Created Employee: suryansh grover1999 - suryanshgrover1999@email.com
+root 2022-10-29 12:57:40,473 INFO spidey styles
+root 2022-10-29 12:57:40,473 INFO spideystyles@email.com
+root 2022-10-29 12:57:40,473 INFO Created Employee: spidey styles - spideystyles@email.com
+root 2022-10-29 12:57:40,473 INFO sherlock holmes1854
+root 2022-10-29 12:57:40,473 INFO sherlockholmes1854@email.com
+root 2022-10-29 12:57:40,473 INFO Created Employee: sherlock holmes1854 - sherlockholmes1854@email.com
+root 2022-10-29 12:57:40,473 INFO Add: 21 + 19 = 40
+root 2022-10-29 12:57:40,473 INFO Sub: 21 - 19 = 2
+root 2022-10-29 12:57:40,473 INFO Mul: 21 * 19 = 399
+root 2022-10-29 12:57:40,473 INFO Div: 21 / 19 = 1.105263157894737
+
+************************ After setting the logger name as `__name__` *************************************
+__name__ 2022-10-29 13:11:58,500 INFO suryansh grover1999
+__name__ 2022-10-29 13:11:58,501 INFO suryanshgrover1999@email.com
+__name__ 2022-10-29 13:11:58,501 INFO Created Employee: suryansh grover1999 - suryanshgrover1999@email.com
+__name__ 2022-10-29 13:11:58,501 INFO spidey styles
+__name__ 2022-10-29 13:11:58,501 INFO spideystyles@email.com
+__name__ 2022-10-29 13:11:58,501 INFO Created Employee: spidey styles - spideystyles@email.com
+__name__ 2022-10-29 13:11:58,501 INFO sherlock holmes1854
+__name__ 2022-10-29 13:11:58,501 INFO sherlockholmes1854@email.com
+__name__ 2022-10-29 13:11:58,501 INFO Created Employee: sherlock holmes1854 - sherlockholmes1854@email.com
